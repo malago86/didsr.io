@@ -19,3 +19,4 @@ markdown: kramdown
 
 # theme: jekyll-theme-tactile
 titlecase: true
+theme: jekyll-theme-slate
