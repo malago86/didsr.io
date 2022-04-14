@@ -10,7 +10,7 @@ title: DIDSR main page
 email: cdrh-osel-didsr@fda.hhs.gov
 description: DIDSR is the best!
 baseurl: "/didsr.io" # the subpath of your site, e.g. /blog
-url: "https://malago86.github.io/didsr.io" # the base hostname & protocol for your site
+url: "https://malago86.github.io" # the base hostname & protocol for your site
 twitter_username: aldo_badano
 github_username:  DIDSR
 
