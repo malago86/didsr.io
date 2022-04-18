@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DIDSR
+title: Division of Imaging, Diagnostics and Software Reliability.
 email: cdrh-osel-didsr@fda.hhs.gov
 description: >- # this means to ignore newlines until "baseurl:"
   DIDSR is the best!
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "DIDSR"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Division of Diagnostics and Software Reliability."
+  bio    : "Division of Imaging, Diagnostics and Software Reliability."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
