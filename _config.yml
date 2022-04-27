@@ -16,8 +16,7 @@
 title: Division of Imaging, Diagnostics and Software Reliability
 email: cdrh-osel-didsr@fda.hhs.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  DIDSR is the best!
-twitter_username: aldo_badano
+  Welcom to DIDSR!
 github_username: DIDSR
 minimal_mistakes_skin: default
 search: true
@@ -61,12 +60,12 @@ author:
   bio    : "Division of Imaging, Diagnostics and Software Reliability / Office of Science and Engineering Laboratories / Center of Devices and Radiological Health / Food and Drug Administration"
   location: "Silver Spring, Maryland"
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.fda.gov/about-fda/cdrh-offices/division-imaging-diagnostics-and-software-reliability"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/aldo_badano"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DIDSR"
@@ -76,9 +75,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/aldo_badano"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.fda.gov/about-fda/cdrh-offices/division-imaging-diagnostics-and-software-reliability"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DIDSR"
